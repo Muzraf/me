@@ -1,1 +1,68 @@
-#DO NOT COME HERE!!!
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>WELCOME!!!</title>
+  </head>
+  <body>
+    <hr size=3>
+    <table cellspacing=10>
+      <tr>
+        <td><img src="./My.png" alt="it's me." height="200" width="200"></td>
+        <td>
+          <h1>Mohammed Musharaf. K</h1>
+          <p>I am a student. I have some interest in web development.</p></td>
+      </tr>
+    </table>
+    <hr size=2>
+    <h2>About this page:</h2>
+    <ul>
+      <li>This is a <strong>Web-page</strong> about me.</li>
+      <li>And it will be uploaded.</li>
+      <li>So, <strong>stay <em>tuned</em></strong>.</li>
+    </ul>
+    <hr size=2>
+    <h2>What to do?</h2>
+    <table cellspacing=10>
+      <thead>
+        <tr>
+          <td><strong>Days</strong></td>
+          <td><strong>Works</strong></td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Sunday</td>
+          <td>Sleeping...</td>
+        </tr>
+        <tr>
+          <td>Monday</td>
+          <td>Waking...</td>
+        </tr>
+        <tr>
+          <td>Tuesday</td>
+          <td>Brushing...</td>
+        </tr>
+        <tr>
+          <td>Wednesday</td>
+          <td>Eating...</td>
+        </tr>
+        <tr>
+          <td>Thursday</td>
+          <td>Playing...</td>
+        </tr>
+        <tr>
+          <td>Friday</td>
+          <td>Praying...</td>
+        </tr>
+        <tr>
+          <td>Saturday</td>
+          <td>Nothing...going to sleep.</td>
+        </tr>
+      </tbody>
+    </table>
+    <hr size=3>
+    <h3>Contact me:</h3>
+    <a href="contact.html">here...</a>
+  </body>
+</html>
